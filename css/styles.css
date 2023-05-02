@@ -3082,7 +3082,7 @@ input::-moz-focus-inner {
 }
 
 .s-header.sticky {
-    background-color: var(--color-gray-19);
+    background-color:#363636;
     opacity: 0;
     visibility: hidden;
     position: fixed;
