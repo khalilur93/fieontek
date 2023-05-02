@@ -4028,7 +4028,7 @@ html.no-csstransitions .s-hero__content {
  * ------------------------------------------------------------------- */
 .s-about {
     background-color: var(--color-bg);
-    padding-top: calc(7 * var(--space));
+    padding-top: calc(2 * var(--space));
     padding-bottom: 0;
     position: relative;
 }
@@ -4199,7 +4199,7 @@ html.no-csstransitions .s-hero__content {
  * ------------------------------------------------------------------- */
 .s-services {
     background-color: var(--color-bg);
-    padding-top: calc(6 * var(--space));
+    padding-top: calc(1 * var(--space));
     padding-bottom: var(--vspace-2);
 }
 
@@ -4269,7 +4269,7 @@ html.no-csstransitions .s-hero__content {
  * ------------------------------------------------------------------- */
 .s-portfolio {
     background-color: var(--color-bg);
-    padding-top: calc(7 * var(--space));
+    padding-top: calc(1 * var(--space));
     padding-bottom: 0;
 }
 
