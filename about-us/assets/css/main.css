@@ -46,7 +46,7 @@ button:focus,
 }
 
 a:hover {
-  color: #4E6EF1;
+  color: #ffffff;
 }
 
 a {
@@ -154,6 +154,11 @@ p {
   color: green;
 }
 
+.logo__size{
+  width: 185px;
+  height: auto;
+}
+
 /*===== All Button Style =====*/
 .main-btn {
   display: inline-block;
@@ -164,13 +169,13 @@ p {
   user-select: none;
   padding: 20px 40px;
   font-size: 18px;
-  border-radius: 50px;
+  border-radius: 10px;
   color: #fff;
   cursor: pointer;
   z-index: 5;
   transition: all .4s ease-in-out;
   border: none;
-  background: #4E6EF1;
+  background: #0a0a0a;
   overflow: hidden;
 }
 
@@ -406,13 +411,13 @@ p {
   width: 100%;
   z-index: 99;
   transition: all 0.3s ease-out 0s;
-  background: #d9083c;
+  background: #363636;
 }
 
 .sticky {
   position: fixed;
   z-index: 99;
-  background-color: #d9083c;
+  background-color: #363636;
   box-shadow: 0px 20px 50px 0px rgba(0, 0, 0, 0.05);
   transition: all 0.3s ease-out 0s;
 }
@@ -506,6 +511,9 @@ p {
 .navbar-nav .nav-item {
   position: relative;
   margin-left: 40px;
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: .5rem;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
@@ -539,7 +547,7 @@ p {
   left: auto;
   width: 0;
   height: 2px;
-  background: #4E6EF1;
+  background: #ffffff;
   z-index: -1;
   opacity: 0;
   border-radius: 10px;
@@ -999,6 +1007,7 @@ p {
   background-size: cover;
   background-position: top center;
   padding-top: 150px;
+  background-color: #dc3545;
 }
 
 .footer .widget-wrapper .footer-widget {
