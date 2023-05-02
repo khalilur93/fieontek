@@ -2910,7 +2910,7 @@ input::-moz-focus-inner {
     font-size: calc(var(--text-size) * 10);
     line-height: 1;
     letter-spacing: -0.02em;
-    color: var(--color-text);
+    color: #ffffff;
     opacity: .1;
 }
 
