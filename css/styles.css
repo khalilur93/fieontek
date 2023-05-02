@@ -3157,7 +3157,7 @@ input::-moz-focus-inner {
     padding-bottom: 1.4rem;
     margin: 0;
     text-transform: uppercase;
-    letter-spacing: .4em;
+    letter-spacing: .5em;
 }
 
 .s-header__nav a {
