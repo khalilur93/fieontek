@@ -4234,30 +4234,43 @@ html.no-csstransitions .s-hero__content {
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
+    border-radius: 5px;
 }
 
-.service-icon--product-design {
-    background-image: url(../images/icons/services/icon-product-design.svg);
+.email__text{
+    text-align: center !important;
+}
+
+.service-icon--prototype {
+    background-image: url(../images/icons/services/prototype.png);
 }
 
 .service-icon--branding {
-    background-image: url(../images/icons/services/icon-branding.svg);
+    background-image: url(../images/icons/services/logobrand.png);
 }
 
-.service-icon--frontend {
-    background-image: url(../images/icons/services/icon-frontend.svg);
+.service-icon--digimarketing {
+    background-image: url(../images/icons/services/digimarket.png);
 }
 
-.service-icon--research {
-    background-image: url(../images/icons/services/icon-research.svg);
+.service-icon--uiuxdesign {
+    background-image: url(../images/icons/services/uiuxdesign.png);
 }
 
-.service-icon--illustration {
-    background-image: url(../images/icons/services/icon-illustration.svg);
+.service-icon--webapps {
+    background-image: url(../images/icons/services/webapps.png);
 }
 
-.service-icon--ecommerce {
-    background-image: url(../images/icons/services/icon-ecommerce.svg);
+.service-icon--mobileapp {
+    background-image: url(../images/icons/services/mobileapps.png);
+}
+
+.service-icon--cybersecurity {
+    background-image: url(../images/icons/services/cyber.png);
+}
+
+.service-icon--iotsupport {
+    background-image: url(../images/icons/services/iotsupport.png);
 }
 
 
