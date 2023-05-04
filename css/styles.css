@@ -651,9 +651,25 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
     padding: 0;
 }
 
+.custom__margin{
+    margin-bottom: -100px !important;
+    margin-top: 34px !important;
+    border-top: dashed;
+}
+
+.custom__mar{
+    border-top: dashed;
+}
+
+.text__aln{
+    text-align: justify;
+}
+
 p {
     font-size: inherit;
     text-rendering: optimizeLegibility;
+    color: rgb(227, 227, 227);
+    text-align: justify;
 }
 
 em, i {
